@@ -12,7 +12,11 @@ var json = {
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -106,7 +110,7 @@ var json = {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "title": "start"
+        "title": "Start"
       },
       "geometry": {
         "type": "Point",
@@ -122,7 +126,8 @@ var json = {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357145076/in/album-72157716028315862/\" title=\"Photo #3: Mueller Tower\"><img src=\"https://live.staticflickr.com/65535/50357145076_982e3e68ce_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #3: Mueller Tower\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357145076/in/album-72157716028315862/\" title=\"Photo #3: Mueller Tower\"><img src=\"https://live.staticflickr.com/65535/50357145076_982e3e68ce_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #3: Mueller Tower\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "title": "Mueller Tower"
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +145,8 @@ var json = {
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357145196/in/album-72157716028315862/\" title=\"Photo #5: Andrews Hall\"><img src=\"https://live.staticflickr.com/65535/50357145196_7ca10a3229_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #5: Andrews Hall\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357145196/in/album-72157716028315862/\" title=\"Photo #5: Andrews Hall\"><img src=\"https://live.staticflickr.com/65535/50357145196_7ca10a3229_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #5: Andrews Hall\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "title": "Andrews Hall"
       },
       "geometry": {
         "type": "Polygon",
@@ -178,7 +184,8 @@ var json = {
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50356443758/in/album-72157716028315862/\" title=\"Photo #10: Closed booth\"><img src=\"https://live.staticflickr.com/65535/50356443758_f2f34ba7ce_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #10: Closed booth\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50356443758/in/album-72157716028315862/\" title=\"Photo #10: Closed booth\"><img src=\"https://live.staticflickr.com/65535/50356443758_f2f34ba7ce_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #10: Closed booth\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "title": "Nebraska Union"
       },
       "geometry": {
         "type": "Polygon",
@@ -358,7 +365,8 @@ var json = {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "park",
-        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357306552/in/album-72157716028315862/\" title=\"Photo #6: Hammock posts\"><img src=\"https://live.staticflickr.com/65535/50357306552_a85c08d237_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #6: Hammock posts\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+        "image": "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/190117124@N08/50357306552/in/album-72157716028315862/\" title=\"Photo #6: Hammock posts\"><img src=\"https://live.staticflickr.com/65535/50357306552_a85c08d237_n.jpg\" width=\"240\" height=\"320\" alt=\"Photo #6: Hammock posts\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>",
+        "title": "Hammock Posts"
       },
       "geometry": {
         "type": "Point",
